@@ -1,0 +1,5 @@
+{
+  "name": "Pixguard URL Shortener",
+  "description": "A dynamic URL shortener with ad integration and countdown timer logic.",
+  "requestFramePermissions": []
+}
